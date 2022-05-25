@@ -156,6 +156,8 @@ def full_pipeline(df):
 
 
 ############################# Streamlit ############################
+st.set_page_config(page_title = 'Análise de Crédito', page_icon = 'favicon.ico') 
+
 st.markdown('<style>div[role="listbox"] ul{background-color: #3e0f7d}; </style>', unsafe_allow_html=True)
 
 st.markdown("<h2 style='text-align: left; '> Formulário para Solicitação de Cartão de Crédito</h2>", unsafe_allow_html = True)
