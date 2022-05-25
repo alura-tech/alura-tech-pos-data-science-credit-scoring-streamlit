@@ -26,6 +26,6 @@ Construir um modelo de aprendizado de máquina para prever se um cliente é 'bom
 
 
 Vamos lá!!! 
-<p align="left"><img src='https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif'</p>
+<p align="left"><img src='https://media.giphy.com/media/fNvXkjC50ywBW/giphy.gif'</p>
 
  
