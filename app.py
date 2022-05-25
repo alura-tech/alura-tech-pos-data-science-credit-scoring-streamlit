@@ -156,7 +156,7 @@ def full_pipeline(df):
 
 
 ############################# Streamlit ############################
-st.set_page_config(page_title = 'Análise de Crédito', page_icon = 'favicon.ico') 
+st.set_page_config(page_title = 'Análise de Crédito', page_icon = '<a target="_blank" href="https://icons8.com/icon/KGhSnVZPf0Vl/money-with-wings">Money With Wings</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>') 
 
 st.markdown('<style>div[role="listbox"] ul{background-color: #3e0f7d}; </style>', unsafe_allow_html=True)
 
