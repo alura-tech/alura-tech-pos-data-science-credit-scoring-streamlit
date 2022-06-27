@@ -12,7 +12,7 @@ dados = pd.read_csv('https://raw.githubusercontent.com/vqrca/streamlit/main/df_c
 
 
 ############################# Streamlit ############################
-st.markdown('<style>div[role="listbox"] ul{background-color: #3e0f7d}; </style>', unsafe_allow_html=True)
+st.markdown('<style>div[role="listbox"] ul{background-color: #6e42ad}; </style>', unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center; '> Formulário para Solicitação de Cartão de Crédito 🤑</h1>", unsafe_allow_html = True)
 
