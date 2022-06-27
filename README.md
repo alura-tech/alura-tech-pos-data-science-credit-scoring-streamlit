@@ -9,8 +9,6 @@
 - [Aula 3 - Machine Learning: Construindo a Pipeline]
 - [Aula 4 - Machine Learning: Escolhendo o Melhor Modelo]
 - [Aula 5 - Criando a aplicação]
-- [Aula 6 - Colocando o modelo em produção]
-
 
 ### Dados 🎲
 
