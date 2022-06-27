@@ -20,7 +20,7 @@ Os dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/rikdifos/cred
 > Os dados estão disponíveis na pasta [dados](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/tree/main/dados) deste repositório. 
 
 ### Aplicação 📲
-Você pode acessar a aplicação criada em aula [aqui](https://share.streamlit.io/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/main/app.py) 
+Você pode acessar a aplicação criada em aula [aqui](https://share.streamlit.io/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/main/app.py). 
 
 ### Objetivo 🎯
 Construir um modelo de aprendizado de máquina para prever se um cliente é 'bom' ou 'mal' pagador, para saber se ele terá um cartão de crédito aprovado ou não. Após obter o melhor modelo, uma aplicação será criada no Streamlit! Bora criar uma aplicação?! 
