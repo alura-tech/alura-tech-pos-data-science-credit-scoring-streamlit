@@ -8,7 +8,7 @@ import joblib
 from joblib import load
 
 #carregando os dados 
-dados = pd.read_csv('https://raw.githubusercontent.com/vqrca/streamlit/main/df_clean.csv', sep=',')
+dados = pd.read_csv('https://raw.githubusercontent.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/main/df_clean.csv')
 
 
 ############################# Streamlit ############################
