@@ -8,7 +8,7 @@
 - [Aula 2 - Criando a variável Target](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_2.ipynb)
 - [Aula 3 - Machine Learning: Construindo a Pipeline](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_3.ipynb)
 - [Aula 4 - Machine Learning: Escolhendo o Melhor Modelo](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_4.ipynb)
-- [Aula 5 - Criando a aplicação]
+- [Aula 5 - Criando a aplicação](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/app.py)
 
 ### Dados 🎲
 
