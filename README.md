@@ -4,10 +4,10 @@
 
 ### Notebooks 📓
 
-- [Aula 1 - Tratando os Dados]
-- [Aula 2 - Criando a variável Target]
-- [Aula 3 - Machine Learning: Construindo a Pipeline]
-- [Aula 4 - Machine Learning: Escolhendo o Melhor Modelo]
+- [Aula 1 - Tratando os Dados](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_1.ipynb)
+- [Aula 2 - Criando a variável Target](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_2.ipynb)
+- [Aula 3 - Machine Learning: Construindo a Pipeline](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_3.ipynb)
+- [Aula 4 - Machine Learning: Escolhendo o Melhor Modelo](https://github.com/alura-tech/alura-tech-pos-data-science-credit-scoring-streamlit/blob/main/Notebooks/Aula_4.ipynb)
 - [Aula 5 - Criando a aplicação]
 
 ### Dados 🎲
